@@ -1,1 +1,0 @@
-[['admin', 'admin', 'admin'], ['lector', 'lector', 'lector'], ['escritor', 'escritor', 'escritor'], ['versatil', 'versatil', 'versatil'], ['Papu', 'admin', 'versatil']]
